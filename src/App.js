@@ -12,8 +12,8 @@ import Crop from './Crop';
 
 import './styles.css';
 
-const CLOUDINARY_UPLOAD_PRESET = 'ny5ujqse';
-const CLOUDINARY_UPLOAD_URL = 'https://api.cloudinary.com/v1_1/djbufbqnq/upload';
+const CLOUDINARY_UPLOAD_PRESET = '#####';
+const CLOUDINARY_UPLOAD_URL = '######################################';
 
 const Container = styled.div`
 	display: flex;
